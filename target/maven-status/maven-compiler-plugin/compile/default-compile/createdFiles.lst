@@ -1,0 +1,6 @@
+com\upstox\auth\storage\FileStorage.class
+com\upstox\auth\model\TokenResponse.class
+com\upstox\auth\storage\BaseStorage.class
+com\upstox\auth\UpstoxAuthenticator.class
+com\upstox\auth\UpstoxAuthenticator$Builder.class
+com\upstox\auth\exceptions\UpstoxAuthException.class
