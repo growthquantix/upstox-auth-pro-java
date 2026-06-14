@@ -1,0 +1,75 @@
+@options
+@packages
+-classpath
+'C:/Work/repository/repository/com/microsoft/playwright/playwright/1.40.0/playwright-1.40.0.jar;C:/Work/repository/repository/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar;C:/Work/repository/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Work/repository/repository/com/microsoft/playwright/driver/1.40.0/driver-1.40.0.jar;C:/Work/repository/repository/com/microsoft/playwright/driver-bundle/1.40.0/driver-bundle-1.40.0.jar;C:/Work/repository/repository/org/jboss/aerogear/aerogear-otp-java/1.0.0/aerogear-otp-java-1.0.0.jar;C:/Work/repository/repository/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.jar;C:/Work/repository/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.jar;C:/Work/repository/repository/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar;C:/Work/repository/repository/com/squareup/okhttp3/okhttp/4.11.0/okhttp-4.11.0.jar;C:/Work/repository/repository/com/squareup/okio/okio/3.2.0/okio-3.2.0.jar;C:/Work/repository/repository/com/squareup/okio/okio-jvm/3.2.0/okio-jvm-3.2.0.jar;C:/Work/repository/repository/org/jetbrains/kotlin/kotlin-stdlib/1.6.20/kotlin-stdlib-1.6.20.jar;C:/Work/repository/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.20/kotlin-stdlib-common-1.6.20.jar;C:/Work/repository/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar;C:/Work/repository/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.6.20/kotlin-stdlib-jdk8-1.6.20.jar;C:/Work/repository/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.20/kotlin-stdlib-jdk7-1.6.20.jar;C:/Work/repository/repository/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar;C:/Work/repository/repository/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11.jar;C:/Work/repository/repository/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Work/P/java-auth/upstox-auth-pro-java/src/main/java;C:/Work/P/java-auth/upstox-auth-pro-java/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Work/P/java-auth/upstox-auth-pro-java/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'upstox-auth-pro 0.1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Work/P/java-auth/upstox-auth-pro-java/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'upstox-auth-pro 0.1.0 API'
+com.upstox.auth.exceptions
+com.upstox.auth.model
+com.upstox.auth.storage
+com.upstox.auth
+C:\Work\repository\repository\com\microsoft\playwright\playwright\1.40.0\playwright-1.40.0.jar = 1773051538402
+C:\Work\repository\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar = 1639923890000
+C:\Work\repository\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar = 1621181926000
+C:\Work\repository\repository\com\microsoft\playwright\driver\1.40.0\driver-1.40.0.jar = 1773051537757
+C:\Work\repository\repository\com\microsoft\playwright\driver-bundle\1.40.0\driver-bundle-1.40.0.jar = 1773051853714
+C:\Work\repository\repository\org\jboss\aerogear\aerogear-otp-java\1.0.0\aerogear-otp-java-1.0.0.jar = 1773051538133
+C:\Work\repository\repository\com\fasterxml\jackson\core\jackson-databind\2.15.2\jackson-databind-2.15.2.jar = 1725280107080
+C:\Work\repository\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.2\jackson-annotations-2.15.2.jar = 1725280105327
+C:\Work\repository\repository\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar = 1725280105499
+C:\Work\repository\repository\com\squareup\okhttp3\okhttp\4.11.0\okhttp-4.11.0.jar = 1773051544543
+C:\Work\repository\repository\com\squareup\okio\okio\3.2.0\okio-3.2.0.jar = 1773051540055
+C:\Work\repository\repository\com\squareup\okio\okio-jvm\3.2.0\okio-jvm-3.2.0.jar = 1773051544257
+C:\Work\repository\repository\org\jetbrains\kotlin\kotlin-stdlib\1.6.20\kotlin-stdlib-1.6.20.jar = 1773051544444
+C:\Work\repository\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.6.20\kotlin-stdlib-common-1.6.20.jar = 1773051545619
+C:\Work\repository\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar = 1621181928000
+C:\Work\repository\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.6.20\kotlin-stdlib-jdk8-1.6.20.jar = 1773051546729
+C:\Work\repository\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.6.20\kotlin-stdlib-jdk7-1.6.20.jar = 1773051546731
+C:\Work\repository\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar = 1725280106117
+C:\Work\repository\repository\ch\qos\logback\logback-classic\1.4.11\logback-classic-1.4.11.jar = 1760853576603
+C:\Work\repository\repository\ch\qos\logback\logback-core\1.4.11\logback-core-1.4.11.jar = 1773051548130
+C:\Work\P\java-auth\upstox-auth-pro-java\src\main\java = 1781259785769
+C:\Work\P\java-auth\upstox-auth-pro-java\target\generated-sources\annotations = 1781260205860
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\allclasses-index.html = 1781260217795
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\allpackages-index.html = 1781260217816
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\copy.svg = 1781260218056
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\element-list = 1781260216862
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\help-doc.html = 1781260217983
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\index-all.html = 1781260217923
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\index.html = 1781260217702
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\link.svg = 1781260218069
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\member-search-index.js = 1781260217864
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\module-search-index.js = 1781260217829
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\overview-summary.html = 1781260217952
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\overview-tree.html = 1781260217676
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\package-search-index.js = 1781260217839
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\script.js = 1781260218040
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\search-page.js = 1781260218093
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\search.html = 1781260217936
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\search.js = 1781260218081
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\serialized-form.html = 1781260217108
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\stylesheet.css = 1781260218007
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\tag-search-index.js = 1781260217874
+C:\Work\P\java-auth\upstox-auth-pro-java\target\apidocs\type-search-index.js = 1781260217851
