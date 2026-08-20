@@ -1,6 +1,6 @@
 # 🚀 Upstox Auth Pro (Java)
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.growthquantix/unofficial-upstox-auth-pro.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.github.growthquantix%22%20AND%20a:%22unofficial-upstox-auth-pro%22)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.growthquantix/broker-auth-upstox.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.github.growthquantix%22%20AND%20a:%22broker-auth-upstox%22)
 
 > [!WARNING]
 > **Unofficial Client:** This library is a community-driven open-source project. It is **not** affiliated with, endorsed by, or officially associated with Upstox or RKSV Securities.
@@ -21,7 +21,7 @@ Add this to your `pom.xml`:
 ```xml
 <dependency>
     <groupId>io.github.growthquantix</groupId>
-    <artifactId>unofficial-upstox-auth-pro</artifactId>
+    <artifactId>broker-auth-upstox</artifactId>
     <version>0.1.0</version>
 </dependency>
 ```
