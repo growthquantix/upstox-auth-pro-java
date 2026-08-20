@@ -1,4 +1,4 @@
-package com.upstox.auth;
+package io.github.growthquantix.upstoxauth;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.microsoft.playwright.Browser;
@@ -6,9 +6,9 @@ import com.microsoft.playwright.BrowserContext;
 import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
-import com.upstox.auth.exceptions.UpstoxAuthException;
-import com.upstox.auth.model.TokenResponse;
-import com.upstox.auth.storage.BaseStorage;
+import io.github.growthquantix.upstoxauth.exceptions.UpstoxAuthException;
+import io.github.growthquantix.upstoxauth.model.TokenResponse;
+import io.github.growthquantix.upstoxauth.storage.BaseStorage;
 import okhttp3.FormBody;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;

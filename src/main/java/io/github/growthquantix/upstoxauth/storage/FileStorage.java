@@ -1,8 +1,8 @@
-package com.upstox.auth.storage;
+package io.github.growthquantix.upstoxauth.storage;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.upstox.auth.model.TokenResponse;
-import com.upstox.auth.exceptions.UpstoxAuthException;
+import io.github.growthquantix.upstoxauth.model.TokenResponse;
+import io.github.growthquantix.upstoxauth.exceptions.UpstoxAuthException;
 
 import java.io.File;
 import java.io.IOException;

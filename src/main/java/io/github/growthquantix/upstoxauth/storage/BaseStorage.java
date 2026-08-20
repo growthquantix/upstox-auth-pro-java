@@ -1,6 +1,6 @@
-package com.upstox.auth.storage;
+package io.github.growthquantix.upstoxauth.storage;
 
-import com.upstox.auth.model.TokenResponse;
+import io.github.growthquantix.upstoxauth.model.TokenResponse;
 import java.util.Optional;
 
 public interface BaseStorage {

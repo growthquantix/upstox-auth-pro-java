@@ -1,7 +1,7 @@
-package com.upstox.auth;
+package io.github.growthquantix.upstoxauth;
 
-import com.upstox.auth.storage.BaseStorage;
-import com.upstox.auth.storage.FileStorage;
+import io.github.growthquantix.upstoxauth.storage.BaseStorage;
+import io.github.growthquantix.upstoxauth.storage.FileStorage;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
