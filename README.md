@@ -1,5 +1,7 @@
 # 🚀 Upstox Auth Pro (Java)
 
+[![Maven Central](https://img.shields.io/maven-central/v/com.upstox.auth/upstox-auth-pro.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.upstox.auth%22%20AND%20a:%22upstox-auth-pro%22)
+
 **Upstox Auth Pro** is a high-performance Java library designed to automate the Upstox API login flow. It handles **Headless Login**, **2FA (TOTP) generation**, and **Authorization Code capture** entirely through code.
 
 ## ✨ Features

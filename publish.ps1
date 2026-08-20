@@ -4,9 +4,14 @@ Write-Host "       Push Code to GitHub                         "
 Write-Host "==================================================="
 Write-Host ""
 Write-Host "Committing all new changes..."
-git add .
-git commit -m "chore: push changes to trigger automated release workflow"
+$commitMsg = Read-Host "Enter your commit message (e.g., 'feat: added new login method' or 'fix: resolved timeout issue')"
 
+if ([string]::IsNullOrWhiteSpace($commitMsg)) {
+    $commitMsg = "chore: update code"
+}
+
+git add .
+git commit -m $commitMsg
 Write-Host ""
 Write-Host "Pushing the code to GitHub..."
 git push origin main
