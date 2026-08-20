@@ -4,7 +4,7 @@
 
     <groupId>io.github.growthquantix</groupId>
     <artifactId>broker-auth-upstox</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>upstox-auth-pro</name>
     <description>A professional Java automation library for Upstox login and token management</description>
     <url>https://github.com/upstox-auth/upstox-auth-pro-java</url>
